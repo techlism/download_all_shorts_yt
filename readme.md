@@ -2,4 +2,6 @@
 
 A simple python script to download all the shorts from a YouTube Channel
 
-[License](https://github.com/techlism/download_all_shorts/blob/main/LICENSE) : MIT
+P.S. Tested only in Linux but should just fine in other OSes. FFMPEG should be installed for best results.
+
+[License](https://github.com/techlism/download_all_shorts_yt/blob/main/LICENSE) : MIT
