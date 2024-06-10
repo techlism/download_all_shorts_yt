@@ -1,0 +1,26 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Caches
+pyvenv.cfg
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+lib/
+lib64/
+lib64
+bin/
+include/
+share/
+etc/
+downloads/
